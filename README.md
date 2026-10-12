@@ -255,7 +255,6 @@ Through this project, I learned that:
 
 - `packet-tracer/campus-network.pkt` — Packet Tracer simulation file.
 - `images/campus-topology.png` — Network topology screenshot.
-- `videos/campus-network-demo.mp4` — Project demonstration video.
 
 ## Future Improvements
 
