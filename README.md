@@ -253,8 +253,8 @@ Through this project, I learned that:
 
 ## Project Files
 
-- `packet-tracer/campus-network.pkt` — Packet Tracer simulation file.
-- `images/campus-topology.png` — Network topology screenshot.
+- `Campus-Network-Design.pkt` — Packet Tracer simulation file.
+- `Network topology.png` — Network topology screenshot.
 
 ## Future Improvements
 
