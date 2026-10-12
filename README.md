@@ -283,3 +283,5 @@ end of testing.
 Documenting that issue helped me recognize the importance of validating
 the complete traffic path and using packet-level troubleshooting to
 identify the actual cause of a network failure.
+
+![Campus network topology](Network-topology.png)
